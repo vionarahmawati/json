@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Syaeful Annas",
+      "alamat": "Cirebon Timur",
+      "id": 1
+    },
+    
+    {
+      "name": "Umar Rakhman",
+      "alamat": "Plered",
+      "id": 2
+    },
+    
+    {
+      "name": "Sigit Saputra",
+      "alamat": "Sumber",
+      "id": 3
+    },
+    
+    {
+      "name": "Sofi Nurul Afifa",
+      "alamat": "Sumber",
+      "id": 4
+    },
+    
+    {
+      "name": "Ibnu Sina Salman Syam",
+      "alamat": "Cirebon Timur",
+      "id": 5
+    }
+  ]
+}
